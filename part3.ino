@@ -11,7 +11,7 @@
 #define MAX_FRAMES 10
 
 // Choose which two fields from the JSON control the strips.
-const char* STRIP_1_DATA = "chestR";
+const char* STRIP_1_DATA = "hat";
 const char* STRIP_2_DATA = "face";
 
 CRGB strip1[LEDS_PER_STRIP];
